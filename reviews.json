@@ -1,0 +1,130 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Sharma",
+      "subject": "Introduction to Computer Science",
+      "stars": 4,
+      "review": "Dr. Sharma is an excellent professor who really makes the material engaging and understandable. Her lectures are well-organized and she is always available to help during office hours."
+    },
+    {
+      "professor": "Professor John Williams",
+      "subject": "Organic Chemistry",
+      "stars": 3,
+      "review": "Professor Williams' class is quite challenging, but he is willing to work with students who put in the effort. The course material is dense, but his explanations and problem sets are helpful."
+    },
+    {
+      "professor": "Dr. Olivia Hernandez",
+      "subject": "Introduction to Psychology",
+      "stars": 5,
+      "review": "Dr. Hernandez is an amazing professor who truly cares about her students' learning. Her lectures are captivating, and she is always willing to answer questions and provide extra support. I would highly recommend taking her class."
+    },
+    {
+      "professor": "Professor Michael Chen",
+      "subject": "Calculus I",
+      "stars": 2,
+      "review": "I found Professor Chen's teaching style to be quite dry and difficult to follow. The grading is also very strict, and he doesn't provide much guidance or feedback. I struggled a lot in this class."
+    },
+    {
+      "professor": "Dr. Sarah Goldstein",
+      "subject": "Introduction to Art History",
+      "stars": 4,
+      "review": "Dr. Goldstein is a passionate and knowledgeable professor who brings the history of art to life. Her lectures are engaging, and she encourages students to think critically about the subject matter. I really enjoyed this course."
+    },
+    {
+      "professor": "Professor David Lee",
+      "subject": "Principles of Marketing",
+      "stars": 3,
+      "review": "Professor Lee's class is fairly straightforward, but he can be somewhat disorganized at times. The workload is manageable, and he is generally helpful during office hours, but the lectures could be more engaging."
+    },
+    {
+      "professor": "Dr. Isabelle Roux",
+      "subject": "French Language and Culture",
+      "stars": 5,
+      "review": "Dr. Roux is an exceptional professor who creates a welcoming and supportive environment in her language classes. Her lessons are well-structured, and she provides ample opportunities for students to practice speaking and writing in French. I highly recommend this course."
+    },
+    {
+      "professor": "Professor Ahmed Malik",
+      "subject": "Introduction to Engineering",
+      "stars": 4,
+      "review": "Professor Malik is a knowledgeable and enthusiastic instructor who makes the course material engaging and accessible. The class workload is reasonable, and he is always available to provide extra help or guidance."
+    },
+    {
+      "professor": "Dr. Sophia Nguyen",
+      "subject": "Developmental Psychology",
+      "stars": 4,
+      "review": "Dr. Nguyen's lectures are informative and thought-provoking. She encourages class discussions and provides valuable insights into the field of developmental psychology. The workload is manageable, and she is willing to work with students to help them succeed."
+    },
+    {
+      "professor": "Professor Liam Fitzgerald",
+      "subject": "Introduction to Biology",
+      "stars": 3,
+      "review": "Professor Fitzgerald's class is quite challenging, and he can be somewhat unapproachable at times. The material is dense, and the grading can be quite strict. However, the labs are well-organized, and the content is interesting."
+    },
+    {
+      "professor": "Dr. Ava Morales",
+      "subject": "Principles of Economics",
+      "stars": 4,
+      "review": "Dr. Morales is a knowledgeable and engaging professor who makes the complex topics of economics understandable. Her lectures are well-structured, and she provides useful examples to illustrate key concepts. The course workload is reasonable, and she is always available to answer questions."
+    },
+    {
+      "professor": "Professor Ethan Goldberg",
+      "subject": "Introduction to Environmental Science",
+      "stars": 5,
+      "review": "Professor Goldberg is an exceptional instructor who is passionate about environmental issues. His lectures are informative and thought-provoking, and he encourages students to think critically about the challenges facing our planet. The course material is relevant and engaging, and I would highly recommend this class."
+    },
+    {
+      "professor": "Dr. Natalie Ramirez",
+      "subject": "Introductory Sociology",
+      "stars": 4,
+      "review": "Dr. Ramirez's class is well-organized and informative. She presents the material in a clear and engaging way, and she is always willing to answer questions and provide additional resources. The workload is manageable, and I found the course content to be quite interesting."
+    },
+    {
+      "professor": "Professor William Jackson",
+      "subject": "Principles of Management",
+      "stars": 3,
+      "review": "Professor Jackson's class is fairly straightforward, but he can be somewhat disengaged during lectures. The course material is relevant, but the delivery could be more dynamic. The grading is reasonable, but he doesn't always provide timely feedback."
+    },
+    {
+      "professor": "Dr. Elise Tanaka",
+      "subject": "Introduction to East Asian Studies",
+      "stars": 5,
+      "review": "Dr. Tanaka is an exceptional professor who brings a wealth of knowledge and enthusiasm to her classes. Her lectures are engaging and thought-provoking, and she encourages students to explore diverse perspectives on the subject matter. I found this course to be both informative and enjoyable."
+    },
+    {
+      "professor": "Professor Olivia Chen",
+      "subject": "Principles of Accounting",
+      "stars": 4,
+      "review": "Professor Chen is a knowledgeable and approachable instructor who makes the challenging subject of accounting more accessible. Her lectures are well-organized, and she provides ample opportunities for students to practice the concepts. The workload is manageable, and she is always willing to offer extra help or guidance."
+    },
+    {
+      "professor": "Dr. Liam Gonzalez",
+      "subject": "Introduction to Political Science",
+      "stars": 4,
+      "review": "Dr. Gonzalez is a passionate and engaging professor who brings a wealth of knowledge to the subject of political science. His lectures are thought-provoking, and he encourages lively class discussions. The course material is relevant and challenging, and I found it to be a rewarding learning experience."
+    },
+    {
+      "professor": "Professor Isabelle Martinez",
+      "subject": "Principles of Finance",
+      "stars": 3,
+      "review": "Professor Martinez's class is quite challenging, and the material can be dry at times. The lectures are sometimes disorganized, and she doesn't always provide clear explanations. However, the course content is relevant, and she is generally available to answer questions during office hours."
+    },
+    {
+      "professor": "Dr. Ethan Diaz",
+      "subject": "Introduction to Neuroscience",
+      "stars": 5,
+      "review": "Dr. Diaz is an exceptional professor who truly cares about his students' learning. His lectures are engaging and informative, and he provides ample opportunities for hands-on learning and discussion. The course workload is manageable, and he is always willing to offer additional support or guidance. I highly recommend this class."
+    },
+    {
+      "professor": "Professor Sophia Rios",
+      "subject": "Principles of Human Resources Management",
+      "stars": 4,
+      "review": "Professor Rios is a knowledgeable and organized instructor who makes the course material accessible. Her lectures are clear and concise, and she provides relevant examples to illustrate key concepts. The workload is reasonable, and she is available to answer questions during office hours."
+    },
+    {
+      "professor": "Dr. Michael Gomez",
+      "subject": "Introduction to Philosophy",
+      "stars": 4,
+      "review": "Dr. Gomez is a thoughtful and engaging professor who encourages students to think critically about philosophical ideas. His lectures are well-structured, and he provides opportunities for class discussions and group activities. The course content is challenging but rewarding, and I found this class to be a valuable learning experience."
+    }
+  ]
+}
